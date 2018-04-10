@@ -1,5 +1,5 @@
-connection: "bigquery-connectors-ga360"
-
+#connection: "bigquery-connectors-ga360"
+connection: "google_bigquery"
 # include all the views
 include: "*.view"
 
